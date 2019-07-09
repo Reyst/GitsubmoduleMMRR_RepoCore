@@ -4,5 +4,6 @@ interface IRepoDto {
     val id: Int
     val name: String
     val fullName: String
+    val isChecked: Boolean
 }
 
